@@ -1,7 +1,7 @@
 # Assginments
 
 R file
-![image](C:\Users\Lenovo\Assginments.images.jpg)
+![image](C:\Users\Lenovo\Assginments\images.jpg)
 
 ```
 # loading data of R workshop

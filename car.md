@@ -4,11 +4,6 @@
 ![Car travelling on road](images.jpg)
 
 ## Few meters readings of a car at each stop are observed.
-
-```r
-r <- diff(dist)
-print(r)
-```
  
 
 ```r
@@ -16,7 +11,7 @@ meter.readings = c(65311,65624,65908,66219,66499,66821,67145,67447)
 ```
 ## Based on these readings we can summaraize few questions'
 
-### Question.1 :no. of KM travelled before each stop
+### Question.1 :no. of Kms travelled before each stop
 
 #### Answer :
 

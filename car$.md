@@ -1,7 +1,7 @@
 #Assginment 1 
 
 
-![](images/1.png)
+![Car travelling on a road](image.jpg)
 
 ## Few meters readings of a car at each stop are observed.
  
